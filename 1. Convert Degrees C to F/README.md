@@ -1,3 +1,4 @@
+The purpose of this project is get familiar with TensorFlow 2.0. This is perhaps the simplest project that can be done, the model has a single neuron (one weight and one bias).  This project doesn't split train/test data and isn't intended to be a full case-study. See other projects for a more complete end-to-end ML/DL project.
 
 - In this project, I will build a simple machine learning model to convert from celsius to fahrenheit. 
 - The equation is as follows: **T(°F) = T(°C) × 9/5 + 32**
