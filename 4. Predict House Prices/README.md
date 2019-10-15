@@ -1,13 +1,13 @@
 Given house features, we try to predict the price of the house.
 
 ---
+Dataset information:
+ * Dataset includes house sale prices for King County in USA. 
+ * Homes that are sold in the time period: May, 2014 to May, 2015.
+ * Data Source: https://www.kaggle.com/harlfoxem/housesalesprediction
 
-* Dataset includes house sale prices for King County in USA. 
-* Homes that are sold in the time period: May, 2014 and May, 2015.
-* Data Source: https://www.kaggle.com/harlfoxem/housesalesprediction
-* Columns:
-
-> 1. ida: notation for a house
+Features:
+1. ida: notation for a house
 2. date: Date house was sold
 3. price: Price is prediction target
 4. bedrooms: Number of Bedrooms/House
