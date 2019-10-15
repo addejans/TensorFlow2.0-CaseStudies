@@ -1,8 +1,9 @@
 You own an bike rental business and you would like to predict usage.
 
 Data Reference:
-   - This Hadi Fanaee-T
+   - Hadi Fanaee-T
    - Laboratory of Artificial Intelligence and Decision Support (LIAAD), University of Porto INESC Porto, Campus da FEUP Rua Dr. Roberto Frias, 378 4200 - 465 Porto, Portugal
+   - [link](https://archive.ics.uci.edu/ml/datasets/bike%2Bsharing%2Bdataset)
 
 Data Description:
  - instant: record index
