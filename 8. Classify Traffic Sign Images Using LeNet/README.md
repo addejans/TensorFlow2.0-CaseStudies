@@ -54,3 +54,9 @@ Dataset information:
 
 
 This is an image classification class using LeNet architecture
+
+---
+
+Sample predictions
+
+![SamplePrediction-SignClassification](signClassificationSample.JPG)
